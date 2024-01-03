@@ -1,6 +1,6 @@
  **# GitHub API Pull Requests**
 
-This repository contains code and resources for working with GitHub pull requests using the GitHub API.
+This repository contains code and resources for working with GitHub pull requests using the GitHub API by the way of shell scripting
 
 **## Common Actions**
 
